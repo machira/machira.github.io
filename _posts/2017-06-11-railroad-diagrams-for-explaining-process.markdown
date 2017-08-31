@@ -2,7 +2,8 @@
 layout: post
 title:  "Using Railroad Diagrams to Explain Process"
 date:   2017-07-11 15:30:00 -0600
-categories: railroad syntax sqlite
+tags: railroad syntax sqlite
+category: tech
 ---
 Every so often, we need to explain the steps to complete a process. When it is simple enough, a series of bullets or a numbered list will do:
 - Go to the shop.
