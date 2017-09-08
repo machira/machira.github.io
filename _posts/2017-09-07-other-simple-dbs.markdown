@@ -49,15 +49,8 @@ Lastly, DogBed DataBase (DBDB) allows [dirty reads](https://en.wikipedia.org/wik
 
 I learned a lot from looking at DogbedDb. It's a great example of what smart trade-offs can give you; The write up also include great advice; test interfaces and single responsibility.
 
-    ##### Aside: 
-    I strayed a little bit from reading on dog db and read a few of the architecture posts in the
-    [Architecture of Open Source Applications book](aosabook.org) and I was blown away. The AOSA
-    project is simply beautiful in almost every way. The write ups are *thoroughly* well written, 
-    yet approachable, and ooze nuggets of information. I am floored by how nearly every post can
-    give, give and then give some more. Look how gently the problems of embarrassingly parallel
-    tasks are introduced in the 
-    [webcrawler example](https://github.com/aosabook/500lines/blob/master/crawler/crawler.markdown) 
-    and how deftly each is dealt with, culminating in co-routines. I've yet to use co-routines, 
-    but now understanding their motivations, I should be more deft at recognizing where they can
-    get me out of a pickle.  
-    I will certainly be writing more about some of the projects there. 
+
+
+
+#### *Aside*: 
+*I strayed a little bit from reading on dog db and read a few of the architecture posts in the [Architecture of Open Source Applications book](aosabook.org) and I was blown away. The AOSA project is simply beautiful in almost every way. The write ups are **thoroughly** well written,  yet approachable, and ooze nuggets of information. I am floored by how nearly every post can give, give and then give some more. Look how gently the problems of embarrassingly parallel tasks are introduced in the  [webcrawler example](https://github.com/aosabook/500lines/blob/master/crawler/crawler.markdown)  and how deftly each is dealt with, culminating in co-routines. I've yet to use co-routines,  but now understanding their motivations, I should be more deft at recognizing where they can get me out of a pickle.   I will certainly be writing more about some of the projects there.*
